@@ -1,7 +1,9 @@
+#include <iostream>
 #include "string"
 #include "../head/log_fac.h"
 int main() {
     LogFac::Instance().Init("../log_conf/log.conf");
+    std::cout << "hello" << std::endl;
     // {
     //     XlogConf x;
     //     x.Read("../log_conf/log.conf");
