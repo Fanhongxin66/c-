@@ -1,0 +1,1 @@
+16:29:20 sdasdasd error .\log.cpp 20 
