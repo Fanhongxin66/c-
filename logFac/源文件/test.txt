@@ -1,0 +1,4 @@
+Nov  7 2025 20:32:08 INFO test 13 test.txt
+Nov  8 2025 18:02:19 DEBUG test 21 test.txt
+Nov  8 2025 18:39:45 DEBUG test 29 test.txt
+Nov  8 2025 20:09:21 DEBUG test1 42 .\log_fac.cpp
