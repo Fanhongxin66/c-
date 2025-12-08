@@ -1,6 +1,0 @@
-14:24:58 Debug test log 001 E:\c++project\test\steamlog.cpp 18
-14:24:58 Debug test log 002 E:\c++project\test\steamlog.cpp 19
-14:46:27 Debug test log 004 E:\c++project\test\steamlog.cpp 29
-14:46:27 Debug test log 005 E:\c++project\test\steamlog.cpp 30
-15:27:33 Debug test log 004 E:\c++project\test\steamlog.cpp 29
-15:27:33 Debug test log 005 E:\c++project\test\steamlog.cpp 30

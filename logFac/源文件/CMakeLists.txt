@@ -68,6 +68,7 @@ add_executable(main
         ../../c++primerplus/第九章/2.cpp
         ../../c++primerplus/第九章/3.cpp
         ../../c++primerplus/第十章/1.cpp
+        ../../c++primerplus/第十章/2.cpp
 )
 
 # 如果需要链接额外的库，比如pthread

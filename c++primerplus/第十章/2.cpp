@@ -31,6 +31,9 @@ class student {
 void  ss() {
     cout << "Hello World!" << endl;
 }
+void  ss1() {
+    cout << "Hello World!" << endl;
+}
 
 int main() {
     student stu("Jack",15);
