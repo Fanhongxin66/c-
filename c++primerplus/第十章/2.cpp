@@ -34,7 +34,9 @@ void  ss() {
 void  ss1() {
     cout << "Hello World!" << endl;
 }
-
+void  ss2() {
+    cout << "Hello World!" << endl;
+}
 int main() {
     student stu("Jack",15);
     student stu1("Hello", 18);
